@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@CumaKaradash" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://github.com/CumaKaradash" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/CumaKaradas" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/cuma-karada%C5%9F-0a5092261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://tr.pinterest.com/PogacaSevenOrdek/" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
 </p>
