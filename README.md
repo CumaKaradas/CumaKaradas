@@ -11,16 +11,15 @@
   <img src="https://img.shields.io/github/followers/CumaKaradash?label=Followers&style=social" alt="GitHub followers">
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/@CumaKaradash" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://github.com/CumaKaradas" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/cuma-karada%C5%9F-0a5092261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tr.pinterest.com/PogacaSevenOrdek/" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
-</p>
+## 🌐 Sosyal Medya:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cuma-karada%C5%9F-0a5092261/) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://tr.pinterest.com/PogacaSevenOrdek/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CumaKaradash) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CumaKaradas)
 
 ---
 
-<h2 align="center">👨‍💻 Hakkımda</h2>
+## 👨‍💻 Hakkımda
 
 ```javascript
 const cuma = {
@@ -38,61 +37,68 @@ const cuma = {
 
 ---
 
-<h2 align="center">🛠️ Teknoloji Yığını</h2>
+## 🛠️ Teknoloji Yığını
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://github-readme-stats.vercel.app/api?username=CumaKaradas&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CumaKaradas&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CumaKaradas&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub İstatistikleri</h2>
+## 🏆 GitHub Başarıları
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CumaKaradash&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CumaKaradash&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CumaKaradash&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CumaKaradas&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h2 align="center">🏆 Başarılar</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CumaKaradash&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">📫 İletişim</h2>
+## 📫 İletişim
 
 <p align="center">
   Benimle iletişime geçmek veya projeleriniz hakkında konuşmak isterseniz, lütfen LinkedIn üzerinden bana ulaşın veya bir e-posta gönderin:
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:cumakaradash@protonmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-<h2 align="center">📄 CV</h2>
+## 📄 CV
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-CV%20(T%C3%BCrk%C3%A7e)-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV (Türkçe)"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CV%20(English)-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV (English)"></a>
 </p>
+
+---
+
+### ✍️ Rastgele Geliştirici Sözü
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
