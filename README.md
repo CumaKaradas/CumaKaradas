@@ -1,7 +1,3 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Merhaba+%F0%9F%91%8B%2C+Ben+Cuma+Karada%C5%9F;Freelance+Web+Geli%C5%9Ftiricisi" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://avatars.githubusercontent.com/u/101338358?s=400&u=3008cae5fdb1632c9df78958b275c83bea3d652a&v=4" alt="Profile Image" width="200" style="border-radius: 50%;"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=CumaKaradash&style=flat-square&color=blue" alt="Profile views"> <img src="https://img.shields.io/github/followers/CumaKaradash?label=Followers&style=social" alt="GitHub followers"> </p>
-
-----------
-
 ## 🌐 Sosyal Medya
 
 Beni sosyal medya platformlarında takip edin veya iletişim kurun:
@@ -11,11 +7,6 @@ Beni sosyal medya platformlarında takip edin veya iletişim kurun:
 ----------
 
 ## 👨‍💻 Hakkımda
-
-javascript
-
-Kodu kopyala
-
 `const cuma = {
   location: "Ankara, Türkiye",
   education: {
