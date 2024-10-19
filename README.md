@@ -11,34 +11,34 @@ Yazılım dünyasında sürekli öğrenmek ve gelişmek en büyük motivasyon ka
 Web geliştirme ve tasarım alanında aşağıdaki teknolojilerde deneyim sahibiyim. Bu teknolojilerle birçok **responsive web sitesi**, **e-ticaret platformu** ve **özel tasarım arayüzler** geliştirdim:
 
 <p align="center">
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
-  <a href="https://https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
+  <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   </a>
 </p>
