@@ -8,7 +8,7 @@ Yazılım dünyasında sürekli öğrenmek ve gelişmek en büyük motivasyon ka
 
 ## 🛠️ Kullandığım Teknolojiler
 
-Web geliştirme ve tasarım alanında aşağıdaki teknolojilerde deneyim sahibiyim. Bu teknolojilerle birçok **responsive web sitesi**, **e-ticaret platformu** ve **özel tasarım arayüzler** geliştirdim:
+Web geliştirme ve tasarım alanında aşağıdaki teknolojilerde deneyim sahibiyim. **Aşağıdaki butonlara tıklayarak ilgili yazılılara bulaşabilirsiniz.** Bu teknolojilerle birçok **responsive web sitesi**, **e-ticaret platformu** ve **özel tasarım arayüzler** geliştirdim:
 
 <p align="center">
   <a href="https://cumakaradas.github.io/-TurkceKaynaklarListesi/" target="_blank">
