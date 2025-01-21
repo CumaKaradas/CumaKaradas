@@ -83,11 +83,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CumaKaradas&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=4ECDC4&point=FF6B6B" width="98%" />
-</div>
-
 <br>
 
 <div align="center">
