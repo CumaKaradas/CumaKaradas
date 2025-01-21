@@ -58,10 +58,6 @@
 <div align="center">
   <a href="https://github.com/CumaKaradas">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CumaKaradas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&icon_color=4ECDC4&title_color=FF6B6B&custom_title=🌟%20GitHub%20İstatistiklerim"/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CumaKaradas&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&text_color=ffffff&icon_color=4ECDC4&title_color=FF6B6B&custom_title=🌟 GitHub İstatistiklerim" width="49%" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=CumaKaradas&theme=dark&background=000000&ring=4ECDC4&fire=FF6B6B&currStreakNum=ffffff&currStreakLabel=FF6B6B&sideNums=ffffff&sideLabels=4ECDC4&hide_border=true" width="49%" />
-</div>
 </div>
 <br>
 <div align="center">
